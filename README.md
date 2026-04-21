@@ -1,2 +1,2 @@
-OS Lab Practicals
+OS Lab Practicals.
 Each EXP has has its own branch. 
